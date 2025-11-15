@@ -52,7 +52,9 @@ Criar textos explicativos sobre SQL, com analogias ao manguebeat e exemplos prá
 
 📄 Ebook Completo
 Você pode acessar o ebook completo em PDF clicando abaixo:
-📥 [MangueQuery - Ebook Completo](./Presentation%201.pdf)
+📥 [MangueQuery - Ebook Completo](https://github.com/larathaylanne/manguequery-ebook/blob/main/Presentation%201.pdf)
+
+
 📥 MangueQuery - Ebook Completo
 
 🙌 Agradecimentos
